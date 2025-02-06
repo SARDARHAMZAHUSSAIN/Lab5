@@ -9,3 +9,9 @@ int num1= console. readLine();
 console.writeLine(enter second num);
 int num2= console. readLine();
 int sub = num1 +num2;
+//product
+console.writeLine(enter first num);
+int num1= console. readLine();
+console.writeLine(enter second num);
+int num2= console. readLine();
+int product = num1 +num2;
